@@ -22,7 +22,7 @@ public class Customer {
     String password;
 
     @OneToMany(mappedBy = "customer")
-    List<Account> accounts;
+    List<AccountDetails> accounts;
 
     String customerName;
 
