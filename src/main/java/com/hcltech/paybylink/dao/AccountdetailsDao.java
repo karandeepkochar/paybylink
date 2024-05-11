@@ -1,6 +1,5 @@
-package com.paymentservices.accountdetails;
+package com.hcltech.paybylink.dao;
 
-import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
