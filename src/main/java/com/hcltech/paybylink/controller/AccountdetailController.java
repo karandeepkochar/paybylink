@@ -1,4 +1,4 @@
-package com.paymentservices.accountdetails;
+package com.hcltech.paybylink.controller;
 
 import java.util.List;
 

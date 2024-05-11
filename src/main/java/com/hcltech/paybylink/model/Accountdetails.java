@@ -1,4 +1,4 @@
-package com.paymentservices.accountdetails;
+package com.hcltech.paybylink.model;
 
 import java.time.LocalDate;
 import java.util.List;
